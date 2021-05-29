@@ -1,0 +1,94 @@
+/****************** print ****************************/
+
+    #carousel, .menu .pull-right, .elem, .header, .ad-long, .no-print, #foot,
+    .row.mark > span, .author, .kwit_buy, body > div:first-child, .txc_cookie_infobox
+    {display: none !important;}
+        
+    .top .polecamy.bg{
+        background: none !important;
+        height: auto !important;
+    }
+    
+    .przepis.row .mark .pull-right .portions-alt{
+        opacity: 1;
+        box-shadow: 0;
+        -webkit-box-shadow: 0;
+        top: auto;
+        bottom: -8px;
+        left: -18px;
+    }
+    
+    .przepis.row .mark .pull-right img, .przepis.row .mark .pull-right .porcja{
+        position: relative;
+        top: -18px;
+    }
+       
+    .menu img.pull-left{
+        padding-top: 35px;
+        height: 100px;
+    }
+    
+    menu a{padding: 0 !important;}
+    .top .polecamy.bg span{margin-top: 0 !important;}
+    
+    .row{
+        margin: 0 !important; 
+        padding: 0 !important;
+    }
+    
+    .skladniki.row{padding-top: 5px;}
+    
+    .row.mark .pull-right{
+        position: relative;
+        top: -20px;
+    }
+    
+    .row.przepis{clear: none !important;}
+    .row.przepis > div{float: none !important; display: inline-block !important;}
+     .przepis-img{max-width: 300px !important;}
+    a{
+        color: inherit;
+        text-decoration: none;
+    }
+    
+    .skladniki ul li{
+        background: none;
+        padding: 2px 0;
+        line-height: 18px;
+        font-size: 13px;
+    }
+    
+    .skladniki ul{margin-bottom: 0;}
+    
+    p{
+        font-size: 13px;
+        line-height: 18px;
+        margin: 0;
+    }
+    
+    .sposob ol{padding-top: 0;}
+    .sposob img{margin: 0;}
+    .sposob ol li:before{
+        font-size: 13px;
+        font-weight: normal;
+        top: 0;
+    }
+    
+    .sposob ol li{
+        font-size: 13px;
+        padding: 2px 0;
+    }
+    
+    li{line-height: 18px;}
+    
+    a[href]:after{
+        content: '';
+    }
+    .ostatnio-wrap .przepis .span4.przepis-img, .ostatnio-wrap .przepis .span4.przepis-text{
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        width: 49%;
+        max-width: 90mm;
+        vertical-align: top;
+    }
