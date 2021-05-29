@@ -3,29 +3,25 @@
 <head>
     <meta charset="UTF-8">
     
-                <title>Przepisy kulinarne | Weranda.pl</title>
-    <meta name="description" content="Najsmaczniejsze, sezonowe przepisy kulinarne na śniadania, obiady, przekąski i kolacje. Pyszna kuchnia magazynu Weranda rozpieści wasze podniebienia!">
-    <meta name="keywords" content="przepisy kulinarne, sezonowe przepisy kulinarne, przepisy kulinarne z magazynu Weranda, przekąski na imprezę, przepisy na obiad, przepisy na danie główne, przepisy na kolację, przepisy na wykwitnie dania, przepisy na elegancki obiad, eleganckie dania">
-    <meta property="fb:app_id" content="144306935988702">
-    <meta property="og:url" content="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne">
-    <meta property="og:title" content="Przepisy kulinarne | Weranda.pl">
-    <meta property="og:description" content="Najsmaczniejsze, sezonowe przepisy kulinarne na śniadania, obiady, przekąski i kolacje. Pyszna kuchnia magazynu Weranda rozpieści wasze podniebienia!">
-        
-    <link rel="canonical" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne">
+            <title>Weranda.pl – najpiękniejsze polskie domy i mieszkania, ogrody, sztuka | Weranda.pl</title>
+        <meta name="keywords" content="dom, mieszkanie, apartament, architektura wnętrz, ogród, sztuka, miesięcznik wnętrzarski, dizajn">
+        <meta name="description" content="Weranda - najpiękniejsze polskie domy, rezydencje, ogrody i sztuka, domy, wnętrza, ogrody, rezydencje, apartamenty, sztuka, miesięcznik wnętrzarski">
+    
+    <link rel="canonical" href="https://www.weranda.pl/fonts/lato/Lato-Bold.ttf">
 
-    <link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="images/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="images/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="images/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="images/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="images/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="images/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="../images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="https://www.weranda.pl/images/front/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -33,12 +29,12 @@
     <meta name="google-site-verification" content="MbUIWNon7w0GLrPSWr-nCz7a6cAo3pZLPCCgG1wFHrU">
     <meta name="csrf-token" content="twIRHR8BQIgDeo5vmVwVGLn7AiTdBFk6mw3wRruT">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/normalize.css" type="text/css">
-    <link rel="stylesheet" href="css/main.css" type="text/css">
-    <link rel="stylesheet" href="css/fslightbox.min.css" type="text/css">
-    <link href="css/css_1.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/normalize.css" type="text/css">
+    <link rel="stylesheet" href="../css/main.css" type="text/css">
+    <link rel="stylesheet" href="../css/fslightbox.min.css" type="text/css">
+    <link href="../css/css_1.css" rel="stylesheet">
 
-    <link href="css/css.css" rel="stylesheet">
+    <link href="../css/css.css" rel="stylesheet">
 
     <link rel="manifest" href="/manifest.json">
     <script charset="UTF-8" src=" https://app.push-ad.com/?run=api/integration/b4ca648814b6c3de63e1f46d186eada709807fb08463fb587cc7120be0189e50.js" async></script>
@@ -55,7 +51,7 @@
     
     <meta name="p:domain_verify" content="648fcfc7e04ab923d6e320d6ffcac888">
 
-    <script async="async" src="js/gpt.js"></script>
+    <script async="async" src="../js/gpt.js"></script>
     <script>
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
@@ -87,7 +83,7 @@
         fbq('init', '221923555464854');
         fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" width="1" style="display:none" src="tr"></noscript>
+    <noscript><img height="1" width="1" style="display:none" src="../tr"></noscript>
     <!-- End Facebook Pixel Code -->
 
     <meta name="google-site-verification" content="lgIXDdoRr55oYPzssVF0KmguQJ-NzrIkklJlTkr_B-g">
@@ -250,7 +246,7 @@
     </script>
     <!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
 
-    <script type="text/javascript" src="js/lib.min.js" async></script>
+    <script type="text/javascript" src="../js/lib.min.js" async></script>
 
         <!-- Hotjar Tracking Code for https://www.weranda.pl/ -->
         <script>
@@ -286,7 +282,7 @@
 
 <noscript>
     <div style="display:none;">
-        <img src="images/p-A1ZTa2qjcyFBV.gif" border="0" height="1" width="1" alt="Quantcast">
+        <img src="../images/p-A1ZTa2qjcyFBV.gif" border="0" height="1" width="1" alt="Quantcast">
     </div>
 </noscript>
 <!-- End Quantcast tag -->
@@ -295,8 +291,8 @@
     <div class="wrapper active-number-header">
         
 
-        <a href="https://www.werandacountry.pl/" target="_blank"><img src="fonts/country.svg" alt="werandacountry.pl" class="country"></a>
-        <a href="https://www.werandaweekend.pl/" target="_blank"><img src="fonts/weekend.svg" alt="werandaweekend.pl" class="weekend"></a>
+        <a href="https://www.werandacountry.pl/" target="_blank"><img src="country.svg" alt="werandacountry.pl" class="country"></a>
+        <a href="https://www.werandaweekend.pl/" target="_blank"><img src="weekend.svg" alt="werandaweekend.pl" class="weekend"></a>
     </div>
 </div>
 
@@ -387,7 +383,7 @@
                             </li>
                                             </ul>
                             </li>
-                    <li class="menu-item active has-sub-menu">
+                    <li class="menu-item has-sub-menu">
                 <a href="https://www.weranda.pl/sztuka-zycia" class="link">Sztuka Życia</a>
                                     <ul class="sub-menu">
                                                     <li>
@@ -530,19 +526,19 @@
             <div class="row">
                 <a href="#" class="link-icon js-search-open">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#header-search"/>
+                        <use xlink:href="svg-map.svg#header-search"/>
                     </svg>
                 </a>
             </div>
             <div class="row social">
                 <a href="https://www.facebook.com/MagazynWeranda/" class="link-icon" target="_blank">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#header-fb"/>
+                        <use xlink:href="svg-map.svg#header-fb"/>
                     </svg>
                 </a>
                 <a href="https://www.instagram.com/weranda_magazyn/" class="link-icon" target="_blank">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#header-insta"/>
+                        <use xlink:href="svg-map.svg#header-insta"/>
                     </svg>
                 </a>
             </div>
@@ -557,7 +553,7 @@
     <section class="header-cta submenu">
         <div class="page">
             <div class="wrapper">
-                <div id="a-container-266-7929294"></div>
+                <div id="a-container-266-6344453"></div>
     <script>
         var img = document.createElement('img');
         img.src = 'https://ads-tejot.pl/data/ads/stihl-gazetka-loteria2021-1260x600-01.gif';
@@ -574,7 +570,7 @@
         a.appendChild(a_container);
         a_container = a;
         
-        var aaa = document.getElementById('a-container-266-7929294');
+        var aaa = document.getElementById('a-container-266-6344453');
         aaa.appendChild(a_container);
     </script>
 
@@ -583,311 +579,136 @@
     </section>
 
 
-<main>
-        <section class="page-category">
-                <div class="category-wrapper">
-            <span class="category-subtitle desktop-is-hidden">Wybierz jedną z kategorii</span>
-            <h1 class="category-current-item destop-is-hidden">Przepisy kulinarne</h1>
-            <ul class="category-list wrapper">
-                
-                                <li class="category-item"><a href="https://www.weranda.pl/sztuka-zycia/artysci" class="link-green-block">Artyści</a></li>
-                                <li class="category-item"><a href="https://www.weranda.pl/sztuka-zycia/projektanci" class="link-green-block">Projektanci</a></li>
-                                <li class="category-item"><a href="https://www.weranda.pl/sztuka-zycia/kolekcje" class="link-green-block">Kolekcje</a></li>
-                                <li class="category-item"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-green-block active">Przepisy kulinarne</a></li>
-                                <li class="category-item"><a href="https://www.weranda.pl/styl-zycia-new/zaproszenia" class="link-green-block">Zaproszenia</a></li>
-                
-                            </ul>
-        </div>
-        
-        <div class="article-list">
-                                    <div class="article-item">
-                    <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/dania-z-truskawkami-i-czerwonymi-owocami" class="photo-wrapper">
-                                                <img src="images/1591091687_przepisy-z-truskawkami.jpg" alt="dania z truskawkami i czerwonymi owocami" title="dania z truskawkami i czerwonymi owocami">
-                                            </a>
-                    <div class="text-wrapper">
-                                                    <span class="category"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                <h2 class="article-title deco midium"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/dania-z-truskawkami-i-czerwonymi-owocami" class="link-inverse">Truskawki, maliny i czereśnie – pomysły na dania z czerwonych owoców i warzyw</a></h2>
-                        <p class="desc">
-                            Kompot z rabarbarem i malinami, orzeźwiająca salsa truskawkowa, gazpacho z pieczonych pomidorów i Red Velvet Cake – oto nasze sprawdzone przepisy na letnią ucztę w domu lub w ogrodzie.
-                        </p>
-                        <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/dania-z-truskawkami-i-czerwonymi-owocami" class="btn-more">Czytaj dalej</a>
-                    </div>
-                                            <div class="tag-block">
-                            <ul class="tag-list">
-                                                                                                        <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block active">przepisy kulinarne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/owoce" class="link-green-block">owoce</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/dania-z-warzywami" class="link-green-block">dania z warzywami</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/truskawki" class="link-green-block">truskawki</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/deser" class="link-green-block">deser</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/ciasta" class="link-green-block">ciasta</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-na-lato" class="link-green-block">przepisy na lato</a></li>
-                                                                                                </ul>
-                        </div>
-                                    </div>
-            
-                                                <div class="article-item">
-                    <a href="https://www.weranda.pl/styl-zycia/przepisy-kulinarne/lekka-kuchnia-najlepsze-przepisy-ze-szparagami" class="photo-wrapper">
-                                                <img src="images/omlet-jest-szybki-do-przygotowania-dlate-Uy4R8.jpg" alt="proste przepisy na dania ze szparagami" title="proste przepisy na dania ze szparagami">
-                                            </a>
-                    <div class="text-wrapper">
-                                                    <span class="category"><a href="https://www.weranda.pl/styl-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                <h2 class="article-title deco midium"><a href="https://www.weranda.pl/styl-zycia/przepisy-kulinarne/lekka-kuchnia-najlepsze-przepisy-ze-szparagami" class="link-inverse">Lekka kuchnia – proste przepisy na dania ze szparagami</a></h2>
-                        <p class="desc">
-                            Dania ze szparagami są lekkie i proste. Oto najlepsze przepisy z zielonych i białych szparagów oraz kilka rad, jak je przyrządzać i z czym podawać, by wydobyć z nich smak i aromat.
-                        </p>
-                        <a href="https://www.weranda.pl/styl-zycia/przepisy-kulinarne/lekka-kuchnia-najlepsze-przepisy-ze-szparagami" class="btn-more">Czytaj dalej</a>
-                    </div>
-                                            <div class="tag-block">
-                            <ul class="tag-list">
-                                                                                                        <li class="tag-item"><a href="https://www.weranda.pl/tag/szparagi" class="link-green-block">szparagi</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy" class="link-green-block">przepisy</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block">przepisy kulinarne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/dania-obiadowe" class="link-green-block">dania obiadowe</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/dania-z-warzywami" class="link-green-block">dania z warzywami</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/warzywa" class="link-green-block">warzywa</a></li>
-                                                                                                </ul>
-                        </div>
-                                    </div>
-            
-                                                <div class="article-item">
-                    <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/przepisy-na-letnie-sniadanie-lunch-i-slodki-podwieczorek" class="photo-wrapper">
-                                                <img src="images/1596025303_przepisy-z-palacu-kamieniec-1.jpg" alt="przepisy na letnie śniadanie lunch i podwieczorek" title="przepisy na letnie śniadanie lunch i podwieczorek">
-                                            </a>
-                    <div class="text-wrapper">
-                                                    <span class="category"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                <h2 class="article-title deco midium"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/przepisy-na-letnie-sniadanie-lunch-i-slodki-podwieczorek" class="link-inverse">Smaczny dzień w Pałacu Kamieniec – przepisy na letnie śniadanie, lunch i słodki podwieczorek</a></h2>
-                        <p class="desc">
-                            Warzywa i owoce z własnego ogrodu, sudecka wołowina, świeżo pieczone bajgle i tarty – wypad do Kotliny Kłodzkiej to prawdziwa uczta. Wypróbuj przepisy na pyszne letnie śniadanie, lunch i słodki podwieczorek prosto z kuchni Pałacu Kamieniec.
-                        </p>
-                        <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/przepisy-na-letnie-sniadanie-lunch-i-slodki-podwieczorek" class="btn-more">Czytaj dalej</a>
-                    </div>
-                                            <div class="tag-block">
-                            <ul class="tag-list">
-                                                                                                        <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block active">przepisy kulinarne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/dania-obiadowe" class="link-green-block">dania obiadowe</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/sniadanie" class="link-green-block">śniadanie</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/deser" class="link-green-block">deser</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/salatka" class="link-green-block">sałatka</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/tarta" class="link-green-block">tarta</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-na-lato" class="link-green-block">przepisy na lato</a></li>
-                                                                                                </ul>
-                        </div>
-                                    </div>
-            
-                                                <div class="article-item featured">
-                    <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/skrzydelka-udka-piersi-z-grilla-ktore-czesci-kurczaka-nadaja-sie-do-grillowania" class="photo-wrapper" style="background-image: url(&#x27;images/1619785180_delikatesy-kurczak-na-grilla-tytulowe1.jpg&#x27;)">
-
-                    </a>
-                    <div class="text-wrapper">
-                        <div class="row">
-                                                            <span class="category"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                        <h2 class="article-title deco big"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/skrzydelka-udka-piersi-z-grilla-ktore-czesci-kurczaka-nadaja-sie-do-grillowania" class="link-inverse">Skrzydełka, udka, piersi z grilla – które części kurczaka nadają się do grillowania?</a></h2>
-                        </div>
-                                                    <div class="tag-block">
-                                <ul class="tag-list">
-                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block active">przepisy kulinarne</a></li>
-                                                                                                                                                <li class="tag-item"><a href="https://www.weranda.pl/tag/grill" class="link-green-block">grill</a></li>
-                                                                                                                                                <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy" class="link-green-block">przepisy</a></li>
-                                                                                                                                                <li class="tag-item"><a href="https://www.weranda.pl/tag/dania-obiadowe" class="link-green-block">dania obiadowe</a></li>
-                                                                                                                                                <li class="tag-item"><a href="https://www.weranda.pl/tag/gotowanie" class="link-green-block">gotowanie</a></li>
-                                                                                                                                                <li class="tag-item"><a href="https://www.weranda.pl/tag/mieso" class="link-green-block">mięso</a></li>
-                                                                                                    </ul>
-                            </div>
-                                                <p class="desc">
-                            Kurczak jest grillowym pewniakiem. Łatwo go przygotować i smakuje prawie każdemu. Sprawdźmy, które części kurczaka najlepiej nadają się na grilla i jak wybrać mięso, które nie tylko dostarczy nam niezapomnianych wrażeń smakowych, ale też będzie odżywcze i zdrowe.
-                        </p>
-                        <div class="link-block"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/skrzydelka-udka-piersi-z-grilla-ktore-czesci-kurczaka-nadaja-sie-do-grillowania" class="btn-more">Czytaj dalej</a></div>
-                    </div>
+    <section class="page-not-found">
+        <div class="page wrapper">
+            <div class="content">
+                <div class="big-text text-main-color">Błąd 404</div>
+                <div class="medium-text text-main-color">przykro nam, ale nie znaleziono podstrony</div>
+                <div class="small-text">
+                    <p>
+                        Możliwe, że nie możesz zobaczyć tej strony, ponieważ:
+                    </p>
+                    <ul>
+                        <li>Użyta zakładka jest nieaktualna</li>
+                        <li>Twoja wyszukiwarka nie odświeżyła jeszcze mapy naszej witryny</li>
+                        <li>Adres został wpisany z błędem</li>
+                        <li>Nie masz uprawnień do obejrzenia tej stron</li>
+                        <li>Wystąpił błąd podczas wykonywania powierzonego zadania.</li>
+                    </ul>
+                    <p>
+                        Jeśli problem się powtarza, skontaktuj się z administratorem witryny. jeżeli chcesz spróbowac jeszcze raz, zacznij od początku od <a href="https://www.weranda.pl">strony startowej.</a>
+                    </p>
                 </div>
-
-                
-            
-                                                <div class="article-item">
-                    <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/kawa-mrozona-w-domu-4-przepisy-od-baristy" class="photo-wrapper">
-                                                <img src="images/mrozona_kawa_1.jpg" alt="kawa mrożona przepis" title="kawa mrożona przepis">
-                                            </a>
-                    <div class="text-wrapper">
-                                                    <span class="category"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                <h2 class="article-title deco midium"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/kawa-mrozona-w-domu-4-przepisy-od-baristy" class="link-inverse">Kawa mrożona w domu: 4 przepisy od baristy</a></h2>
-                        <p class="desc">
-                            Z tonikiem, lodami, a może ze świeżymi owocami? Kawę mrożoną można przygotować na wiele różnych sposobów. Marcin Rusnarczyk, Mistrz Polski Baristów, poleca nam cztery ciekawe propozycje. 
-                        </p>
-                        <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/kawa-mrozona-w-domu-4-przepisy-od-baristy" class="btn-more">Czytaj dalej</a>
-                    </div>
-                                            <div class="tag-block">
-                            <ul class="tag-list">
-                                                                                                        <li class="tag-item"><a href="https://www.weranda.pl/tag/kawa" class="link-green-block">kawa</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block">przepisy kulinarne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-na-lato" class="link-green-block">przepisy na lato</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/male-agd" class="link-green-block">małe AGD</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/agd" class="link-green-block">agd</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/ekspres-do-kawy" class="link-green-block">ekspres do kawy</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/wyposazenie-kuchni" class="link-green-block">wyposażenie kuchni</a></li>
-                                                                                                </ul>
-                        </div>
-                                    </div>
-            
-                                                <div class="article-item">
-                    <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/przepisy-z-rabarbarem" class="photo-wrapper">
-                                                <img src="images/Przepisy_z_rabarbarem_na_slono__6_.jpg" alt="przepisy z rabarbarem" title="przepisy z rabarbarem">
-                                            </a>
-                    <div class="text-wrapper">
-                                                    <span class="category"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                <h2 class="article-title deco midium"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/przepisy-z-rabarbarem" class="link-inverse">Przepisy z rabarbarem na słodko i na słono</a></h2>
-                        <p class="desc">
-                            Pierwszym Europejczykiem, który zachwycił się jego smakiem, był w XIII wieku Marco Polo. To dzięki niemu rabarbar dzisiaj króluje w naszej kuchni. Zrobisz z niego pyszny deser, orzeźwiający  poncz, który latem przyniesie ochłodę, i wykwinty obiad.
-                        </p>
-                        <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/przepisy-z-rabarbarem" class="btn-more">Czytaj dalej</a>
-                    </div>
-                                            <div class="tag-block">
-                            <ul class="tag-list">
-                                                                                                        <li class="tag-item"><a href="https://www.weranda.pl/tag/rabarbar" class="link-green-block">rabarbar</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block">przepisy kulinarne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/dania-obiadowe" class="link-green-block">dania obiadowe</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/deser" class="link-green-block">deser</a></li>
-                                                                                                </ul>
-                        </div>
-                                    </div>
-            
-                            <div class="newsletter-sign-block wrapper">
-    <div class="wrapper">
-        <p class="desc">
-            Lubisz być na bieżąco? Chcesz dostawać informacje o nowych artykułach <br>
-            i sesjach zdjęciowych na naszej stronie? <strong>Zapisz się do newslettera!</strong>
-        </p>
-        <a href="#" class="btn-black js-newsletter-open">Zapisz się</a>
-    </div>
-</div>                <div class="cta-image">
-		<a href="https://www.werandacountry.pl/aktualny-numer" target="_blank" style="background-image: url(&#x27;images/2000x1000%20baner%2006.png&#x27;);">
-	
-		</a>
-	</div>
-                                                <div class="article-item">
-                    <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/jak-udekorowac-stol-swiatecznymi-slodkosciami" class="photo-wrapper">
-                                                <img src="images/1615282486_jak-udekorowac-stol-swiatecznymi-slodkosciami-1.png" alt="jak udekorować stół świątecznymi słodkościami" title="jak udekorować stół świątecznymi słodkościami">
-                                            </a>
-                    <div class="text-wrapper">
-                                                    <span class="category"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                <h2 class="article-title deco midium"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/jak-udekorowac-stol-swiatecznymi-slodkosciami" class="link-inverse">Jak udekorować stół świątecznymi słodkościami? (5 inspiracji DIY)</a></h2>
-                        <p class="desc">
-                            Piękne święta wielkanocne to nie tylko zdobienie pisanek, zasianie rzeżuchy czy świeże kwiaty w wazonie. To także efektownie udekorowany stół, przy którym zasiądzie cała rodzina. Zaskocz ją deserami, które nie tylko zrobisz z łatwością sama, ale i przykujesz nimi wzrok wszystkich gości.
-                        </p>
-                        <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/jak-udekorowac-stol-swiatecznymi-slodkosciami" class="btn-more">Czytaj dalej</a>
-                    </div>
-                                            <div class="tag-block">
-                            <ul class="tag-list">
-                                                                                                        <li class="tag-item"><a href="https://www.weranda.pl/tag/wielkanoc" class="link-green-block active">Wielkanoc</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/stol-wielkanocny" class="link-green-block">stół wielkanocny</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-swiateczne" class="link-green-block">przepisy świąteczne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block">przepisy kulinarne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/ciasta" class="link-green-block">ciasta</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/deser" class="link-green-block">deser</a></li>
-                                                                                                </ul>
-                        </div>
-                                    </div>
-            
-                                                <div class="article-item">
-                    <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/tradycyjne-potrawy-wielkanocne-przepisy-z-domu-polskiego" class="photo-wrapper">
-                                                <img src="images/pasztet-bialy-drobiowy-z-przepiorczymi-j-dmMwD.jpg" alt="tradycyjne potrawy wielkanocne" title="tradycyjne potrawy wielkanocne">
-                                            </a>
-                    <div class="text-wrapper">
-                                                    <span class="category"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne" class="link-inverse">Przepisy kulinarne</a></span>
-                                                <h2 class="article-title deco midium"><a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/tradycyjne-potrawy-wielkanocne-przepisy-z-domu-polskiego" class="link-inverse">Tradycyjne potrawy wielkanocne – przepisy z Domu Polskiego</a></h2>
-                        <p class="desc">
-                            Jak święta to tradycyjne potrawy wielkanocne – biała kiełbasa, chrzanówka, pasztet, pascha. Z tradycją trudno wojować, ale można ją intrygująco dosmaczyć!
-	 
-                        </p>
-                        <a href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne/tradycyjne-potrawy-wielkanocne-przepisy-z-domu-polskiego" class="btn-more">Czytaj dalej</a>
-                    </div>
-                                            <div class="tag-block">
-                            <ul class="tag-list">
-                                                                                                        <li class="tag-item"><a href="https://www.weranda.pl/tag/wielkanoc" class="link-green-block active">Wielkanoc</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-kulinarne" class="link-green-block">przepisy kulinarne</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/kuchnia-polska" class="link-green-block">kuchnia polska</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/stol-wielkanocny" class="link-green-block">stół wielkanocny</a></li>
-                                                                                                                                            <li class="tag-item"><a href="https://www.weranda.pl/tag/przepisy-swiateczne" class="link-green-block">przepisy świąteczne</a></li>
-                                                                                                </ul>
-                        </div>
-                                    </div>
-            
-                            </div>
-        <ul class="pagination" role="navigation">
-        
-                    <li class="page-item disabled" aria-disabled="true" aria-label="Poprzednia strona">
-                <span class="page-link" aria-hidden="true">&lsaquo;</span>
-            </li>
-        
-        
-                    
-            
-            
-                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=2">2</a></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=3">3</a></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=4">4</a></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=5">5</a></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=6">6</a></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=7">7</a></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=8">8</a></li>
-                                                                    
-                            <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
-            
-            
-                                
-            
-            
-                                                                        <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=23">23</a></li>
-                                                                                <li class="page-item"><a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=24">24</a></li>
-                                                        
-        
-                    <li class="page-item">
-                <a class="page-link" href="https://www.weranda.pl/sztuka-zycia/przepisy-kulinarne?page=2" rel="next" aria-label="Następna strona">&rsaquo;</a>
-            </li>
-            </ul>
-
+            </div>
+        </div>
     </section>
 
+            <section class="main-articles-block wrapper page-error">
+            <h2 class="section-title"><span>Zobacz najnowsze artykuły:</span></h2>
+            <ul class="main-article-list" data-scrollable-ui="true">
+                                    <li class="main-article-item" data-scrollable-item="true" data-article="190">
+                                                    <span class="promo-text">Polecamy!</span>
+                                                                        <a href="https://www.weranda.pl/urzadzamy/kuchnia/amica-piekarnik-parowy" class="photo-wrapper">
+                            <img src="../images/amica-piekarnik-parowy.jpg" alt="amica piekarnik parowy">
+                        </a>
+                        <div class="text-wrapper">
+                                                            <span class="category"><a href="https://www.weranda.pl/urzadzamy/kuchnia" class="link-inverse">Kuchnia</a></span>
+                            
+                            <h2 class="article-title midium deco"><a href="https://www.weranda.pl/urzadzamy/kuchnia/amica-piekarnik-parowy" class="link-inverse">Smak i zdrowie – idealna para</a></h2>
+                        </div>
+                    </li>
+                                    <li class="main-article-item" data-scrollable-item="true" data-article="191">
+                                                                        <a href="https://www.weranda.pl/domy-i-mieszkania/stylowe-i-przytulne/mieszkanie-urzadzone-w-artystycznym-stylu" class="photo-wrapper">
+                            <img src="../images/mieszkanie_urzadzone_w_artystycznym_stylu.jpg" alt="mieszkanie urządzone w artystycznym stylu">
+                        </a>
+                        <div class="text-wrapper">
+                                                            <span class="category"><a href="https://www.weranda.pl/domy-i-mieszkania/stylowe-i-przytulne" class="link-inverse">Stylowe i przytulne</a></span>
+                            
+                            <h2 class="article-title midium deco"><a href="https://www.weranda.pl/domy-i-mieszkania/stylowe-i-przytulne/mieszkanie-urzadzone-w-artystycznym-stylu" class="link-inverse">Tu nie ma nudy – mieszkanie urządzone w artystycznym stylu</a></h2>
+                        </div>
+                    </li>
+                                    <li class="main-article-item" data-scrollable-item="true" data-article="202">
+                                                    <span class="promo-text">Polecamy!</span>
+                                                                        <a href="https://www.weranda.pl/urzadzamy/dekoracje/arte-pura-dekoracje-i-dodatki-do-domu" class="photo-wrapper">
+                            <img src="../images/arte_pura_dekoracje_do_domu__10_.jpg" alt="arte pura dekoracje i dodatki do domu">
+                        </a>
+                        <div class="text-wrapper">
+                                                            <span class="category"><a href="https://www.weranda.pl/urzadzamy/dekoracje" class="link-inverse">Dekoracje</a></span>
+                            
+                            <h2 class="article-title midium deco"><a href="https://www.weranda.pl/urzadzamy/dekoracje/arte-pura-dekoracje-i-dodatki-do-domu" class="link-inverse">Arte Pura – dekoracje do domu, w których zakochali się Włosi, już wkrótce dostępne w Polsce</a></h2>
+                        </div>
+                    </li>
+                            </ul>
+        </section>
     
+            <section class="cta-archive wrapper page-error">
+            <h2 class="section-title"><span>Sprawdź aktualny numer:</span></h2>
+            <figure class="cta-archive-item">
+                                    <div class="slider-list">
+                                                    <div class="slider-item is-active">
+                                <img src="../images/weranda6_2021_s1.png" alt="Numer 6 / 2021">
+                            </div>
+                                                    <div class="slider-item">
+                                <img src="../images/weranda6_2021_s2.png" alt="Numer 6 / 2021">
+                            </div>
+                                                    <div class="slider-item">
+                                <img src="../images/weranda6_2021_s3.png" alt="Numer 6 / 2021">
+                            </div>
+                                                    <div class="slider-item">
+                                <img src="../images/weranda6_2021_s4.png" alt="Numer 6 / 2021">
+                            </div>
+                                            </div>
+                                                    <ol class="slider-dots">
+                                                    <li class="dot is-active" data-index="0"></li>
+                                                    <li class="dot " data-index="1"></li>
+                                                    <li class="dot " data-index="2"></li>
+                                                    <li class="dot " data-index="3"></li>
+                                            </ol>
+                                <figcaption class="text-wrapper">
+                    <h2 class="article-title big deco">Numer 6 /2021</h2>
+                    <p class="desc">
+                        Unikalne treści, piękne zdjęcia i jeszcze więcej inspiracji dla<br> Twojego domu. Zamów wydanie papierowe lub<br> elektroniczne – jak wolisz!
+                    </p>
+                    <a href="https://www.weranda.pl/aktualny-numer" class="btn">Zajrzyj do środka</a>
+                    <div class="links">
+                        <a href="https://prenumerata.tejot.com.pl/weranda/aktualny-numer" class="link" target="_blank">Zamów aktualne wydanie</a>
+                        <a href="https://prenumerata.tejot.com.pl/weranda/archiwum" class="link" target="_blank">Zamów numery archiwalne</a>
+                    </div>
+                </figcaption>
+            </figure>
+        </section>
 
-    <div class="container-newsletter-archive wrapper">
-        <section class="newsletter-block m-right">
-    <h2 class="section-title"><span>Newsletter</span></h2>
-    <a href="#" class="photo-wrapper">
-        <img class="lazy" src lazy-src="https://www.weranda.pl/images/front/newsletter.png" alt>
-    </a>
-    <div class="text-wrapper">
-        <h3 class="article-title big deco">Chcesz być na bieżąco?</h3>
-        <p class="desc">
-            Kody rabatowe, informacje o promocjach, nowości ze strony, przegląd najciekawszych tekstów –
-            to wszystko w naszym newsletterze.
-        </p>
-        <a href="#" class="btn js-newsletter-open">Zapisz się</a>
-    </div>
-</section>        <section class="archive-block m-left">
-    <h2 class="section-title"><span>Numery archiwalne</span></h2>
-            <a href="https://www.weranda.pl/wybierz-archiwum" class="photo-wrapper">
-            <img class="lazy" src lazy-src="https://www.weranda.pl/cache/694-459/c0fcc25c0eed41339ff00735d8a76122/archiwa.png" alt="Numery archiwalne">
-        </a>
-    
-    <div class="text-wrapper">
-        <h3 class="article-title big deco">Przegapiłeś numer?</h3>
-        <p class="desc">
-            Wydania archiwalne – zwykłe oraz wydania specjalne <br>– możesz zamówić w&nbsp;każdej chwili<br> z&nbsp;naszego archiwum.
-        </p>
-        <div>
-            <a href="https://prenumerata.tejot.com.pl/" class="btn" target="_blank">Zamów wersję online</a>
-            <a href="https://www.weranda.pl/wybierz-archiwum" class="btn">Pokaż wszystkie numery</a>
-        </div>
-    </div>
-</section>
-    </div>
-</main>
-
+                    <section class="current-articles-block page-error">
+                <div class="wrapper">
+                    <h2 class="section-title no-border">Artykuły z tego numeru:</h2>
+                    <ul class="article-list current-articles" data-scrollable-ui="true">
+                                                    <li class="article-item" data-article="5667" data-scrollable-item="true">
+                                <a href="https://www.weranda.pl/ogrody/male-i-duze/aranzacja-stolu-na-przyjecie-w-ogrodzie" class="photo-wrapper"><img src="../images/aranzacja-stolu-na-przyjecie-w-ogrodzie.jpg" alt="aranżacja stołu na przyjęcie w ogrodzie"></a>
+                                <div>
+                                    <h3 class="article-title"><a href="https://www.weranda.pl/ogrody/male-i-duze/aranzacja-stolu-na-przyjecie-w-ogrodzie" class="link-white">Świętujemy pod chmurką –aranżujemy stół na przyjęcie w ogrodzie</a></h3>
+                                </div>
+                            </li>
+                                                    <li class="article-item" data-article="5668" data-scrollable-item="true">
+                                <a href="https://www.weranda.pl/domy-i-mieszkania/stylowe-i-przytulne/salon-pod-brzozami-tylko-naturalne-materialy-we-wnetrzu" class="photo-wrapper"><img src="../images/naturalne-materialy-we-wnetrzu.jpg" alt="naturalne materiały we wnętrzu"></a>
+                                <div>
+                                    <h3 class="article-title"><a href="https://www.weranda.pl/domy-i-mieszkania/stylowe-i-przytulne/salon-pod-brzozami-tylko-naturalne-materialy-we-wnetrzu" class="link-white">Salon pod brzozami – tylko naturalne materiały we wnętrzu</a></h3>
+                                </div>
+                            </li>
+                                                    <li class="article-item" data-article="5666" data-scrollable-item="true">
+                                <a href="https://www.weranda.pl/domy-i-mieszkania/stylowe-i-przytulne/dom-urzadzony-w-stylu-modern-classic" class="photo-wrapper"><img src="../images/dom-urzadzony-w-stylu-modern-classic.jpg" alt="dom w stylu modern classic"></a>
+                                <div>
+                                    <h3 class="article-title"><a href="https://www.weranda.pl/domy-i-mieszkania/stylowe-i-przytulne/dom-urzadzony-w-stylu-modern-classic" class="link-white">Marzenia i widoki – przytulny dom urządzony w stylu modern classic</a></h3>
+                                </div>
+                            </li>
+                                            </ul>
+                </div>
+            </section>
+            
 <footer class="footer">
     <div class="wrapper">
         <div class="row">
             <div class="col">
-                <img src="fonts/logo.svg" class="logo" alt="Weranda">
+                <img src="logo.svg" class="logo" alt="Weranda">
                 <ul class="footer-menu-list">
                     <li class="footer-menu-item"><a href="https://www.weranda.pl/uncategorised/o-nas" class="link-inverse">O nas</a></li>
                     <li class="footer-menu-item"><a href="https://www.weranda.pl/wybierz-archiwum" class="link-inverse">Archiwum</a></li>
@@ -967,27 +788,27 @@
             <div class="icon-block">
                 <a href="https://www.instagram.com/weranda_magazyn/" class="link-icon" target="_blank">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#footer-insta"/>
+                        <use xlink:href="svg-map.svg#footer-insta"/>
                     </svg>
                 </a>
                 <a href="https://www.facebook.com/MagazynWeranda/" class="link-icon" target="_blank">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#footer-fb"/>
+                        <use xlink:href="svg-map.svg#footer-fb"/>
                     </svg>
                 </a>
                 <a href="https://pl.pinterest.com/magazynweranda/" class="link-icon" target="_blank">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#footer-pinterest"/>
+                        <use xlink:href="svg-map.svg#footer-pinterest"/>
                     </svg>
                 </a>
                 <a href="https://prenumerata.tejot.com.pl/" class="link-icon book" target="_blank">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#footer-prenumerata"/>
+                        <use xlink:href="svg-map.svg#footer-prenumerata"/>
                     </svg>
                 </a>
                 <a href="#" class="link-icon js-search-open">
                     <svg>
-                        <use xlink:href="fonts/svg-map.svg#footer-search"/>
+                        <use xlink:href="svg-map.svg#footer-search"/>
                     </svg>
                 </a>
             </div>
@@ -998,7 +819,7 @@
     <a href="#" class="close-popup"></a>
     <div class="intro">
         <div class="wrapper">
-            <img src="fonts/logo.svg" alt="Weranda.pl" class="logo">
+            <img src="logo.svg" alt="Weranda.pl" class="logo">
             <form class="search-form form-item" action="https://www.weranda.pl/wyszukaj">
                 <input type="text" class="has-focus" placeholder="Napisz, czego szukasz" name="search">
                 <input type="submit" value="Szukaj" class="btn">
@@ -1077,14 +898,14 @@
     </div>
 </div>
 
-<script src="js/jquery.min.js"></script>
-<script src="js/masonry.pkgd.min.js"></script>
-<script src="js/hammer.min.js"></script>
-<script src="js/main.min.js"></script>
-<script src="js/fslightbox.min.js"></script>
-<script src="js/svg4everybody.min.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/masonry.pkgd.min.js"></script>
+<script src="../js/hammer.min.js"></script>
+<script src="../js/main.min.js"></script>
+<script src="../js/fslightbox.min.js"></script>
+<script src="../js/svg4everybody.min.js"></script>
 <script>svg4everybody();</script>
-<script src="js/aos.min.js"></script>
+<script src="../js/aos.min.js"></script>
 <script>
     AOS.init({
         offset: 200,
